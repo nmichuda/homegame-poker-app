@@ -1,4 +1,4 @@
-# 🃏 Poker Night - Multiplayer Online Poker
+# HomeGame - Multiplayer Online Poker
 
 A real-time multiplayer poker application built with Node.js, Socket.IO, React, and TypeScript. Play Texas Hold'em poker with your friends online!
 
